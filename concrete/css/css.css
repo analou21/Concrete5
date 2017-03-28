@@ -1,0 +1,55 @@
+header{
+  background-color: white;
+  font-family: Times;
+  font-size: 15px;
+  font-weight: bold;
+  height: 2em;
+  margin-bottom: 0em;
+  margin-left: 2em;
+  margin-right: 2em;
+  right: 0em;
+  position: fixed;
+  top: 0em;
+  width: 100%;
+}
+#fin{
+  margin-right: 100px;
+}
+#diap{
+  margin-top: 50px;
+}
+#first{
+  margin-top: 100px;
+}
+#CAT{
+  margin-top: 100px;
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#text{
+  margin-top: 100px;
+}
+#bas{
+  margin-top: 50px;
+}
+h3{
+  text-align: center;
+}
+#h2_image{
+  text-align: left;
+}
+#h2_CAT{
+  text-align: left;
+  color: white;
+}
+p a{
+    text-align: center;
+}
+#footer{
+  background-color: black;
+}
+#footer ul li{
+  list-style-type: none;
+  color: white;
+}

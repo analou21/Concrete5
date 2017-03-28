@@ -1,0 +1,58 @@
+body{
+  padding-top: 50px;
+}
+#navbar{
+  border-bottom: 1px solid black;
+}
+.nav>li{
+  position:relative;
+  display: inline-block;
+}
+#first{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#CAT{
+  background-color: black;
+  color:white;
+}
+#CAT a{
+  background-color: orange;
+  border-radius:5px;
+  padding-top:7px;
+  padding-right:7px;
+  padding-left:7px;
+  padding-bottom:7px;
+  color: black;
+}
+h2{
+  text-align: center;
+}
+p a{
+  text-align: center;
+}
+#second{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.titre{
+  margin-bottom: 10px;
+}
+#footer ul{
+  padding-top: 50px;
+  list-style-type: none;
+}
+#footer{
+  background-color: black;
+  color:white;
+}
+
+#facto{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: black;
+  background-color: white;
+}
